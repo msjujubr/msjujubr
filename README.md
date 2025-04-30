@@ -2,16 +2,17 @@
   Estudante de Engenharia de Computação, com grande interesse na área da robótica, controle e automação
 
 ### 🚀 Minhas principais habilidades
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msjujubr&layout=compact&theme=radical)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Arduino" height="50" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="ROS" height="80" src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original.svg">
+  <img align="center" alt="ROS" height="50" src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original.svg">
   <img align="center" alt="Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="CPP" height="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"> 
-  <img align="center" alt="Csharp" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Csharp" height="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Unity" height="50" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msjujubr&layout=compact&theme=radical)
 
 <div> 
   <a href="https://www.youtube.com/@msjujubr" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
