@@ -6,10 +6,11 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Arduino" height="50" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="ROS" height="80" src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original-wordmark.svg">
+  <img align="center" alt="ROS" height="80" src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original.svg">
   <img align="center" alt="Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="CPP" height="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"> 
   <img align="center" alt="Csharp" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Unity" height="50" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"
 </div>
 
 <div> 
