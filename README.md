@@ -1,5 +1,5 @@
-| 🇺🇸 [English]()| 🇧🇷 [Português](./README.md)|
-|----------------------------|--------------------------|
+| 🇧🇷 [Português](./README.md) | 🇺🇸 [English]() | 🇯🇵 [日本語]() |
+|------------------------------|-----------------------------|----------------------------|
 
 ### Olá! Meu nome é Júlia (msjujubr),  
   Estudante de Engenharia de Computação, fascinada pelas áreas de robótica, programação, controle e automação.
