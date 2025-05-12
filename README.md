@@ -1,4 +1,4 @@
-| 🇺🇸 [English](./README-en.md)| 🇧🇷 [Português](./README.md)|
+| 🇺🇸 [English]()| 🇧🇷 [Português](./README.md)|
 |----------------------------|--------------------------|
 
 ### Olá! Meu nome é Júlia (msjujubr),  
