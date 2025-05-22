@@ -39,10 +39,10 @@
     <img align="center" alt="Arduino" height="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/arduino/arduino-original-wordmark.svg">
     <img Align="center" alt = "Github" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
     <img Align="center" alt = "Linux" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-    <img Align="center" alt = "Ubuntu" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
+    <img Align="center" alt = "Ubuntu" width=90 src="imgs/ubuntu.png">
     <img Align="center" alt = "VS Code" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img Align="center" alt = "Windows" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-    <img align="center" alt = "Tinkercad" width=100 src = "imgs/image.png">
+    <img align="center" alt = "Tinkercad" width=90 src = "imgs/tinkercad.png">
 </div>
 
 <br>
