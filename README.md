@@ -42,7 +42,7 @@
     <img Align="center" alt = "Ubuntu" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
     <img Align="center" alt = "VS Code" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img Align="center" alt = "Windows" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-    <img align="center" alt = "Tinkercad" width=100 src = "https://private-user-images.githubusercontent.com/105356707/314665604-6c896944-76c2-4aa6-8ac6-d710ba8631df.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc0ODYyOTQsIm5iZiI6MTc0NzQ4NTk5NCwicGF0aCI6Ii8xMDUzNTY3MDcvMzE0NjY1NjA0LTZjODk2OTQ0LTc2YzItNGFhNi04YWM2LWQ3MTBiYTg2MzFkZi5zdmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxN1QxMjQ2MzRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZDNiMWUyOWUwMzI3NjlmMWY0Y2M2YTA3MzYzZmZhODE5ZDgzYWQ4NjVhOTk5ZTBjODI1YzhiMjRlYjRlNTdjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.BgjzFVmz64wLqFI6WvIUh6PzQU2lxlynIAGwyMAiy0o">
+    <img align="center" alt = "Tinkercad" width=100 src = "imgs/image.png">
 </div>
 
 <br>
@@ -53,7 +53,6 @@
     <img Align="center" alt = "C" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img Align="center" alt = "C++" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="Csharp" height="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-original.svg">   
-    <img align="center" alt="Tinkercad" width="50" src="imgs/image.png">
 </div>
 
 <br>
