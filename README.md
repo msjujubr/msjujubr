@@ -53,7 +53,7 @@
     <img Align="center" alt = "C" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img Align="center" alt = "C++" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="Csharp" height="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-original.svg">   
-    
+    <img align="center" alt="Tinkercad" width="50" src="imgs/image.png">
 </div>
 
 <br>
