@@ -1,6 +1,5 @@
-| 🇧🇷 [Português](./README.md) | 🇺🇸 [English]() | 🇯🇵 [日本語]() |
-|------------------------------|-----------------------------|----------------------------|
-
+| 🇧🇷 [Português](./README.md) | 🇺🇸 [English](./README.en.md) | 🇯🇵 [日本語](./README.ja.md) | 🇪🇸 [Español](./README.es.md) |
+|------------------------------|-----------------------------|----------------------------|--------------------------|
 ### Hello! My name is Júlia (msjujubr),  
   I'm a Computer Engineering student, fascinated by robotics, programming, control, and automation.
 
