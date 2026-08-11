@@ -3,9 +3,9 @@
 ### Olá! Meu nome é Júlia (msjujubr),  
   Estudante de Engenharia de Computação, fascinada pelas áreas de robótica, programação, controle e automação.
 
-- 🤖 Grupo PET - Engenharia Mecatrônica
+- 📌 [Portfolio - Trajetória acadêmica e projetista](https://msjujubr.github.io/portfolio/)
 - 🏢 CEFET - Campus V
-- 📌 Divinópolis - MG
+- 🤖 Grupo PET - Engenharia Mecatrônica
 
 ---
 
