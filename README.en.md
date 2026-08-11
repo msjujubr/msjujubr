@@ -3,9 +3,9 @@
 ### Hello! My name is Júlia (msjujubr),  
   I'm a Computer Engineering student, fascinated by robotics, programming, control, and automation.
 
-- 🤖 PET Group - Mechatronic Engineering
+📌 [Portfolio - Academic and Design Journey](https://msjujubr.github.io/portfolio/)
 - 🏢 CEFET - Campus V
-- 📌 Divinópolis - MG, Brazil
+- 🤖 PET Group - Mechatronic Engineering
 
 ---
 
