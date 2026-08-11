@@ -3,7 +3,7 @@
 ### Hello! My name is Júlia (msjujubr),  
   I'm a Computer Engineering student, fascinated by robotics, programming, control, and automation.
 
-📌 [Portfolio - Academic and Design Journey](https://msjujubr.github.io/portfolio/)
+- 📌 [Portfolio - Academic and Design Journey](https://msjujubr.github.io/portfolio/)
 - 🏢 CEFET - Campus V
 - 🤖 PET Group - Mechatronic Engineering
 
