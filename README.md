@@ -1,37 +1,73 @@
-| 🇧🇷 [Português](./README.md) | 🇺🇸 [English](./README.en.md) | 🇯🇵 [日本語](./README.ja.md) | 🇪🇸 [Español](./README.es.md) |
-|------------------------------|-----------------------------|----------------------------|--------------------------|
-### Olá! Meu nome é Júlia (msjujubr),  
-  Estudante de Engenharia de Computação, fascinada pelas áreas de robótica, programação, controle e automação.
+| 🇺🇸 [English](./README.md) | 🇯🇵 [日本語](./README.ja.md) | 🇪🇸 [Español](./README.es.md) |
+|------------------------------|-----------------------------|------------------------------| 
 
-- 📌 [Portfolio - Trajetória acadêmica e projetista](https://msjujubr.github.io/portfolio/)
+### Hello! My name is Júlia (msjujubr),  
+  Computer Engineering Undergraduate, fascinated by computing and its applications across bioinformatics, chemicals design, scientific computing, cybersecurity, control, virtual and augmented reality.
+
+- 📌 [Portfolio - Academic and Design Journey](https://msjujubr.github.io/portfolio/)
 - 🏢 CEFET - Campus V
-- 🤖 Grupo PET - Engenharia Mecatrônica
+- PET Group - Mechatronic Engineering
+
+## 🔬 Research Interests
+  <p align="center">
+  <img src="https://img.shields.io/badge/Bioinformatics-2E7D32?style=flat-square" alt="Bioinformatics" />
+  <img src="https://img.shields.io/badge/Drug%20Design-1565C0?style=flat-square" alt="Drug Design" />
+  <img src="https://img.shields.io/badge/Drug%20Design-1565C0?style=flat-square" alt="Chemicals Discovery" />  
+  <img src="https://img.shields.io/badge/Scientific%20Computing-455A64?style=flat-square" alt="Scientific Computing" />
+  <img src="https://img.shields.io/badge/Cybersecurity-B71C1C?style=flat-square" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Robotics-E65100?style=flat-square" alt="Robotics" />
+  <img src="https://img.shields.io/badge/Modeling%20%26%20Control-6A1B9A?style=flat-square" alt="Modeling & Control" />
+  <img src="https://img.shields.io/badge/Virtual%20Reality-4527A0?style=flat-square" alt="Virtual Reality" />
+  <img src="https://img.shields.io/badge/Augmented%20Reality-7B1FA2?style=flat-square" alt="Augmented Reality" /> <img src="https://img.shields.io/badge/Simulation-00838F?style=flat-square" alt="Simulation" />
+</p>
 
 ---
 
 ---
 
-### 📚 Formação
-- 📝 Cursando: Engenharia da Computação, CEFET-MG
-- 🤖 Curso de Robótica, FLEEK
-- 🖥️ Introdução a Programação e Robótica (PROROBOT), CEFET-MG
-- 📓 Técnico em Administração
+### 📚 Education
+- 📝 Currently studying: Computer Engineering Undergrad at CEFET-MG
+- 🤖 Robotics Course, FLEEK
+- 🖥️ Introduction to Programming and Robotics (PROROBOT), CEFET-MG
+- 📓 Technical Course in Administration
 
-  
----
-
----
-
-<div>
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=msjujubr&show_icons=true&theme=radical">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msjujubr&layout=compact&theme=radical&include_all_commits=true">
-</div>
 
 ---
 
 ---
 
-### Plataformas:
+## 📊 GitHub activity
+
+<table>
+  <tr>
+    <td width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msjujubr&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msjujubr&theme=default" />
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msjujubr&theme=default" alt="Júlia's GitHub statistics" />
+      </picture>
+    </td>
+    <td width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msjujubr&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msjujubr&theme=default" />
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msjujubr&theme=default" alt="Repositories by language" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msjujubr&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msjujubr&theme=default" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msjujubr&theme=default" alt="Júlia's GitHub contribution summary" />
+</picture>
+
+---
+
+---
+
+### Platforms:
 <div style="display: inline_block">
     <img align="center" alt="Unity" height="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/unity/unity-original.svg">
     <img align="center" alt="ROS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ros/ros-original.svg">
@@ -46,7 +82,7 @@
 
 <br>
 
-### Linguagens e Recursos:
+### Languages and Tools:
 <div style="display: inline_block">
     <img Align="center" alt = "Python" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img Align="center" alt = "C" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -60,7 +96,7 @@
 
 ---
 
-### Contato:
+### Contact:
 <div>
     <a href="https://www.youtube.com/@msjujubr" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/msjujubr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
