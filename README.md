@@ -9,17 +9,7 @@
 - PET Group - Mechatronic Engineering
 
 ## 🔬 Research Interests
-  <p align="center">
-  <img src="https://img.shields.io/badge/Bioinformatics-2E7D32?style=flat-square" alt="Bioinformatics" />
-  <img src="https://img.shields.io/badge/Drug%20Design-1565C0?style=flat-square" alt="Drug Design" />
-  <img src="https://img.shields.io/badge/Drug%20Design-1565C0?style=flat-square" alt="Chemicals Discovery" />  
-  <img src="https://img.shields.io/badge/Scientific%20Computing-455A64?style=flat-square" alt="Scientific Computing" />
-  <img src="https://img.shields.io/badge/Cybersecurity-B71C1C?style=flat-square" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Robotics-E65100?style=flat-square" alt="Robotics" />
-  <img src="https://img.shields.io/badge/Modeling%20%26%20Control-6A1B9A?style=flat-square" alt="Modeling & Control" />
-  <img src="https://img.shields.io/badge/Virtual%20Reality-4527A0?style=flat-square" alt="Virtual Reality" />
-  <img src="https://img.shields.io/badge/Augmented%20Reality-7B1FA2?style=flat-square" alt="Augmented Reality" /> <img src="https://img.shields.io/badge/Simulation-00838F?style=flat-square" alt="Simulation" />
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/Bioinformatics-2E7D32?style=flat-square" alt="Bioinformatics" /> <img src="https://img.shields.io/badge/Drug%20Design-1565C0?style=flat-square" alt="Drug Design" /> <img src="https://img.shields.io/badge/Chemical%20Discovery-00897B?style=flat-square" alt="Chemical Discovery" /> <img src="https://img.shields.io/badge/Scientific%20Computing-455A64?style=flat-square" alt="Scientific Computing" /> <img src="https://img.shields.io/badge/Cybersecurity-B71C1C?style=flat-square" alt="Cybersecurity" /> <img src="https://img.shields.io/badge/Robotics-E65100?style=flat-square" alt="Robotics" /> <img src="https://img.shields.io/badge/Modeling%20%26%20Control-6A1B9A?style=flat-square" alt="Modeling & Control" /> <img src="https://img.shields.io/badge/Virtual%20Reality-4527A0?style=flat-square" alt="Virtual Reality" /> <img src="https://img.shields.io/badge/Augmented%20Reality-7B1FA2?style=flat-square" alt="Augmented Reality" /> <img src="https://img.shields.io/badge/Simulation-00838F?style=flat-square" alt="Simulation" /> </p>
 
 ---
 
